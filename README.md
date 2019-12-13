@@ -1,5 +1,7 @@
 # Twitter ML Librarian bot
 
+Will be added to @ml_reads_bot. <3 Tweets articles from https://paperswithcode.com/.
+
 ## Getting started
 You will need a .env file with the following contents:
 
