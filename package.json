@@ -1,0 +1,36 @@
+{
+  "name": "ml-librarian",
+  "version": "0.0.0",
+  "description": "A Twitter Librarian",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "1.15.1",
+    "pretty-quick": "1.8.0"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "dotenv": "^6.1.0",
+    "puppeteer": "^2.0.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5",
+    "twit": "^2.2.11",
+    "unique-random-array": "^1.0.1",
+    "unirest": "^0.6.0"
+  },
+  "now": {
+    "alias": "twitter-bot-bootstrap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spences10/twitter-bot-bootstrap.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spences10/twitter-bot-bootstrap/issues"
+  },
+  "homepage": "https://github.com/spences10/twitter-bot-bootstrap#readme",
+  "author": "Magda Stenius"
+}
